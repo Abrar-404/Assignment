@@ -203,3 +203,24 @@ text-decoration: underline;
   text-align: center;
   padding-top: 20px;
 }
+.pictures{
+  width: 200px;
+  height: 200px;
+}
+.insta-pics{
+  gap: 30px;
+  align-items: center;
+  display: flex;
+  padding-top: 20px;
+ justify-content: center;
+}
+.email-box{
+  background-color: white;
+  border: 2px solid pink;
+  width: 700px;
+  height: 48px;
+  border-radius: 8px;
+}
+.email-box{
+  
+}
