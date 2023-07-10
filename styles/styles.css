@@ -146,3 +146,25 @@ text-decoration: underline;
 .delivery{
   padding-top: 10px;
 }
+.social-media{
+  padding-top: 50px;
+  align-items: center;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  gap: 90px;
+  background-image: url(../istockphoto-1298136769-640x640.jpg);
+  width: 1140px;
+  height: 100px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  margin-top: 30px;
+  margin-left: 90px;
+  margin-right: 90px;
+  border-radius: 8px;
+}
+.icon-all{
+  width: 50px;
+  height: 50px;
+}
