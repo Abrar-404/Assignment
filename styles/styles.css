@@ -1,0 +1,42 @@
+*{
+  margin: 0px;
+}
+.upper{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  padding-left: 30px;
+  padding-right: 30px;
+  background-color: #E554731A;
+}
+.headline{
+color: #272727;
+font-size: 40px;
+font-weight: 800;
+text-align: left;
+padding-bottom: 20px;
+}
+.para{
+  color: rgba(39, 39, 39, 0.60);
+font-size: 18px;
+font-weight: 400;
+padding-bottom: 20px;
+}
+.btn{
+  background-color: #E55473;
+  border-radius: 8px;
+  color: white;
+  font-size: 20px;
+  font-weight: 400;
+  padding: 10px;
+  padding-left: 25px; 
+  padding-right: 25px; 
+  padding-top: 20px; 
+  padding-bottom: 20px; 
+  border: 0px;
+}
+.upper-flower{
+  width: 350px;
+  height: 450px;
+  padding-top: 20px;
+}
