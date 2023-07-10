@@ -107,3 +107,16 @@ font-weight: 400;
   align-items: center;
   background-color: #477D1126;
 }
+.flower-bottom-text{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  padding-top: 20px;
+  margin-left: 40px;
+  margin-right: 40px;
+}
+.bottom-text{
+  font-size: 24px;
+font-weight: bold;
+text-decoration: underline;
+}
