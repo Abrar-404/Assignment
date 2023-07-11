@@ -241,3 +241,33 @@ text-decoration: underline;
   margin-right: 100px;
   border-radius: 8px;
 }
+.footer{
+background-color: #111010;
+height: 60vh;
+padding-top: 200px;
+text-align: center;
+align-items: center;
+margin-top: 100px;
+}
+.color-flower{
+  color: #E55473;
+}
+.flower-shop{
+  color: white;
+}
+.para4{
+ color: white;
+ font-size: 18px;
+ font-weight: 400;
+ padding-top: 20px;
+ padding-bottom: 20px;
+ text-align: center;
+}
+.para5{
+  color: rgb(208, 207, 207);
+ font-size: 18px;
+ font-weight: 400;
+ padding-top: 20px;
+ padding-bottom: 20px;
+ text-align: center;
+}
